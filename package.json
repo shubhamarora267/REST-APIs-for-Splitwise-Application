@@ -1,0 +1,28 @@
+{
+  "name": "splitwise",
+  "version": "1.0.0",
+  "description": "This application helps people to share their expenses",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "splitwise",
+    "node",
+    "js",
+    "jwt",
+    "rest",
+    "apis"
+  ],
+  "author": "Shubham Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.0",
+    "body-parser": "^1.18.2",
+    "config": "^1.29.2",
+    "express": "^4.16.2",
+    "jwt-simple": "^0.5.1",
+    "moment": "^2.20.1",
+    "mysql": "^2.15.0"
+  }
+}
